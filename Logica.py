@@ -31,4 +31,4 @@ def elemento():
 if __name__ == "__main__":
     elemento()
 
-#o resulado é a)9 B)128 c)49 d)100
+#o resulado é a)9 B)128 c)49 d)20, E) 13, f) 20
